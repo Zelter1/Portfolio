@@ -163,3 +163,14 @@ nav > ul li:hover .sous{
     font-size: calc(100vw / 10)
 
 }
+
+.competence{
+    margin:auto
+}
+
+img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
